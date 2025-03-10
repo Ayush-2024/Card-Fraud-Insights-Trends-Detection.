@@ -1,7 +1,5 @@
 # Card-Fraud-Insights-Trends-Detection.
 
-# Card Fraud Insights: Trends & Detection
-
 ## 📊 Project Overview
 This project analyzes credit card transaction data to detect fraudulent activities using **SQL** and **Power BI**. The goal is to uncover patterns in fraudulent transactions, visualize trends, and aid in proactive fraud detection through insightful dashboards.. 
 
