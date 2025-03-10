@@ -18,7 +18,7 @@ This project analyzes credit card transaction data to detect fraudulent activiti
 - **Fraud Amount Patterns:** High-value fraud transactions are concentrated within specific timeframes.
 
 ## 📌 How to Use
-1. **Download the dataset**.
+1.  **Download Dataset:** [Click Here](https://drive.google.com/file/d/1JY63YpdhLVelNtBUATad25PPn1Gfdr8u/view?usp=sharing)
 2. **Open the Power BI dashboard** and interact with different filters to explore fraud trends.
 3. **Analyze SQL queries** to understand fraud detection logic.
 
