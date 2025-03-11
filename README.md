@@ -19,6 +19,7 @@ This project analyzes credit card transaction data to detect fraudulent activiti
 
 ## 📌 How to Use
 1.  **Download Dataset:** [Click Here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-2. **Open the Power BI dashboard** and interact with different filters to explore fraud trends.
-3. **Analyze SQL queries** to understand fraud detection logic.
+2.  **Download Power BI Dashboard:** [Click Here](https://1drv.ms/u/c/03e7819bc1bc2f78/ET-ks9wNZJ5HtbK3B8rsJe0BLHWOnUG_bEKLxumIR2TGkQ?e=8ruYOf)
+3. **Open the Power BI dashboard** and interact with different filters to explore fraud trends.
+4. **Analyze SQL queries** to understand fraud detection logic.
 
